@@ -1,0 +1,5 @@
+haystack-ai==3.2.0
+docling==2.134.0
+pinecone-haystack==6.3.0
+pyTelegramBotAPI==4.36.1
+python-dotenv==1.2.4
